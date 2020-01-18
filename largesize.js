@@ -1,5 +1,5 @@
-var normalWidth = 900;
-var normalHeight = 563;
+var normalWidth = 1000;
+var normalHeight = 625;
 var largeWidth = 2560;
 var largeHeight = 1600;
 var hotspotsWidth = 0;
